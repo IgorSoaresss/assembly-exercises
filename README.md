@@ -1,2 +1,2 @@
 # assembly-exercises
-Some exercises of assembly i made along the college
+Some exercises in assembly i made along the college
